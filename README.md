@@ -1,6 +1,10 @@
 # bot_nav_bar_lib
 
-A new Flutter application.
+This project like creating a new native Android project with Bottom Navigation Bar. If your application need to bottom navigation bar I suggest you use this project. Whatever your bottom navigation bar need  (state management, scroll controller, top to page etc.) this project covers all of them.
+
+For Turkish tutorial and example video: https://berkanaslan.com/yazilim/flutterda-provider-ile-bottomnavigationbar-mimarisi/
+
+
 
 ## Getting Started
 
